@@ -4,8 +4,8 @@ Each lab has a **preparation task** and a **real time task**.
 
 ## 👥 Contributors
 
-- [Bar Kupferschmied](https://github.com/barkupf)
 - [Rotem Arbiv](https://github.com/RotemArbiv27)
+- [Bar Kupferschmied](https://github.com/barkupf)
 
 
 ## Table of contents 🔗
